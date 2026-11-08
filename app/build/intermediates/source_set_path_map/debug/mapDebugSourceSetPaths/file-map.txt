@@ -1,0 +1,16 @@
+com.example.productstore.app-core-1.13.0-0 C:\Users\natro 5\.gradle\caches\transforms-4\138ea0a5e6c5ddc4b750c12c13efc84a\transformed\core-1.13.0\res
+com.example.productstore.app-core-runtime-2.2.0-1 C:\Users\natro 5\.gradle\caches\transforms-4\23d6e0330dafe80760beab0243f3f05f\transformed\core-runtime-2.2.0\res
+com.example.productstore.app-annotation-experimental-1.4.0-2 C:\Users\natro 5\.gradle\caches\transforms-4\5b2dad8d2c47b48d986e7b33928dd2ea\transformed\annotation-experimental-1.4.0\res
+com.example.productstore.app-profileinstaller-1.3.1-3 C:\Users\natro 5\.gradle\caches\transforms-4\765b82abb4a9d12ac77e0c2199575792\transformed\profileinstaller-1.3.1\res
+com.example.productstore.app-customview-poolingcontainer-1.0.0-4 C:\Users\natro 5\.gradle\caches\transforms-4\79871300dd163d6099e3b34e22db2a95\transformed\customview-poolingcontainer-1.0.0\res
+com.example.productstore.app-core-ktx-1.13.0-5 C:\Users\natro 5\.gradle\caches\transforms-4\8d22718d1330cf417ac15b832a7f88c1\transformed\core-ktx-1.13.0\res
+com.example.productstore.app-startup-runtime-1.1.1-6 C:\Users\natro 5\.gradle\caches\transforms-4\95a6aa26119a33d7f9724767e924e53c\transformed\startup-runtime-1.1.1\res
+com.example.productstore.app-recyclerview-1.4.0-7 C:\Users\natro 5\.gradle\caches\transforms-4\e000dcf571fa90357f06b6be4b292031\transformed\recyclerview-1.4.0\res
+com.example.productstore.app-lifecycle-runtime-2.6.2-8 C:\Users\natro 5\.gradle\caches\transforms-4\ed25dd9e97d07e82e38d40c41dc2c2dc\transformed\lifecycle-runtime-2.6.2\res
+com.example.productstore.app-pngs-9 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\build\generated\res\pngs\debug
+com.example.productstore.app-resValues-10 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\build\generated\res\resValues\debug
+com.example.productstore.app-packageDebugResources-11 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.productstore.app-packageDebugResources-12 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.productstore.app-debug-13 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.productstore.app-debug-14 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\src\debug\res
+com.example.productstore.app-main-15 C:\Users\natro 5\Desktop\الواجب الاول اندرويد\ProductStoreRecyclerView\app\src\main\res

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.productstore.app-debug-13:/layout_item_product.xml.flat",
+        "source": "com.example.productstore.app-main-15:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.productstore.app-debug-13:/drawable_camera_product.xml.flat",
+        "source": "com.example.productstore.app-main-15:/drawable/camera_product.xml"
+    },
+    {
+        "merged": "com.example.productstore.app-debug-13:/drawable_search_background.xml.flat",
+        "source": "com.example.productstore.app-main-15:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.example.productstore.app-debug-13:/drawable_ic_cart.xml.flat",
+        "source": "com.example.productstore.app-main-15:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.productstore.app-debug-13:/layout_activity_main.xml.flat",
+        "source": "com.example.productstore.app-main-15:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.productstore.app-debug-13:/drawable_product_card_background.xml.flat",
+        "source": "com.example.productstore.app-main-15:/drawable/product_card_background.xml"
+    }
+]

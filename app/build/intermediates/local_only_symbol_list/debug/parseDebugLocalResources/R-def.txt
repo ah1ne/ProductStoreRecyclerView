@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable camera_product
+drawable ic_cart
+drawable product_card_background
+drawable search_background
+id addToCartButton
+id filterButton
+id productCategory
+id productImage
+id productName
+id productPrice
+id productsRecyclerView
+id searchButton
+id searchEditText
+layout activity_main
+layout item_product
+style AppTheme
